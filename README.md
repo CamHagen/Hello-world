@@ -1,2 +1,2 @@
 # Hello-world
-Intro to GitHub
+Never to late to learn (or re-learn)
